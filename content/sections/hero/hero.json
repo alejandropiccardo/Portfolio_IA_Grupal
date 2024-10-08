@@ -1,0 +1,22 @@
+{
+  "intro": "Hola!",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "Bienvenido a mi Portfolio",
+  "subtitle": {
+    "prefix": "de Machine Learning ",
+    "highlight": "",
+    "suffix": "."
+  },
+  "description": "de Alejandro Piccardo",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}

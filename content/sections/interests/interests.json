@@ -1,0 +1,31 @@
+{
+  "interests": [
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/pythonLogo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "RapidMiner",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Preparación de Datos",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+    
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 3
+  }
+}
