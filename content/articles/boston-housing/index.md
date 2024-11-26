@@ -70,19 +70,30 @@ El objetivo de este proyecto es desarrollar un modelo de regresión lineal para 
 - MEDV    Valor medio de viviendas ocupadas por sus propietarios en miles de dólares(Variable de salida)
   Real, entre 5 y 50
 
+### Distribuciones:
+![Texto alternativo](distr1.png "Distribuciones")
+![Texto alternativo](distr2.png "Distribuciones")
+![Texto alternativo](distr3.png "Distribuciones")
+![Texto alternativo](distr4.png "Distribuciones")
+
 <!-- ![Texto alternativo](desviation.png "desviación")
  -->
-#### Preparación de datos:
+## Preparación de datos:
 Analizando la matriz de correlación :
 ![Texto alternativo](MatrizCorr.png "Matriz de correlación")
 
-notamos que el predictor "RM" parece tener mayor peso para determinar el valor medio de la vivienda.
+notamos que el predictor "RM" parece tener mayor peso para determinar el valor medio de la vivienda. Podemos verlo mejor si graficamos:
+![Texto alternativo](rm-medv.png "Distribuciones")
 
-#### Modelo:
+
+## Modelo:
 Aplicamos el modelo de regresión lineal ya que queremos obtener el precio a partir de operar con los demás predictores. éste hallará el polinomio cofactorizado y lo usará como función determinante del precio.
 ![Texto alternativo](process.png "RapidMiner Proceso")
 
-#### Resultados:
+¿Por qué usar regresión lineal?
+Dadas las características del dataset, nos encontramos con un problema de regresión , el modelo necesita predecir un valor numérico para el valor MEDV. Además el Dataset contiene la información a predecir, por lo que es un problema SUPERVISADOS
+
+## Resultados:
 Una vez entrenado el modelo, podemos observar que coeficientes usó con cada predictor:
 ![Texto alternativo](coeficientes.png "Coeficientes")
 
@@ -92,6 +103,9 @@ Analisando algunas predicciones:
 
 Performance:
 ![Texto alternativo](perf.png "Performance Split-Validation")
+
+
+Esta métrica fue obtenida utilizando el método Cross-Validation y nos indica el margen de error respecto al precio predecido con el real (en miles de USD$).
 
 
 
