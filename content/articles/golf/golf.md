@@ -1,7 +1,7 @@
 ---
 title: "ML proyect Golf"
 description: "Nayve-bayes ML model in a cardic arrest dataset"
-date: "2024-10-07"
+date: "2024-11-11"
 banner:
   src: "../../images/golf.jpg"
   alt: "First Markdown Post"
