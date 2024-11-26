@@ -71,17 +71,7 @@ Como resultado obtenemos la siguiente matriz, podemos ver que la precisión del 
 
 ![Process](bayes-mat.png)
 
-	
-<!-- ![Alt text](image-13.png) -->
-
---------
-# Por qué Naive Bayes?
-
-El presente algoritmo fue elegido para este problema gracias a su idoneidad para tareas de clasificación binaria, como la predicción de si se jugará al golf en función de las condiciones climáticas. Este modelo es especialmente adecuado para manejar atributos categóricos como lo pueden ser Outlook y Wind, ya que utiliza un enfoque probabilístico que trata directamente con datos de este tipo. A pesar de asumir independencia entre los atributos, Naive Bayes es conocido por ser robusto incluso cuando esta condición no se cumple completamente, lo que lo hace flexible para trabajar con este dataset.
-
-Además, es una opción más adecuada para datasets pequeños, como el presente conjunto de datos de entrenamiento que contiene solo 14 filas. La simplicidad del algoritmo reduce el riesgo de sobreajuste y permite generar modelos generalizables con pocos datos. 
-
---------
 # Conclusión
 
-Como se pudo apreciar en los resultados anteriores, el modelo pudo llegar a resultados aceptables con el dataset de test, pese a ser un dataset que solo contaba con 14 filas para entrenamiento.
+Podemos ver como la utilización de Naive Bayes genera un modelo con un buen nivel de eficacia. Por supuesto que no
+necesariamente este es el mejor resultado posible utilizando este algoritmo; podemos intentar mejorar el rendimiento por medio de la utilización de algún algoritmo de feature-selection, como puede ser un Forward Selection, para buscar la mejor combinación de atributos para maximizar la capacidad predictiva del modelo.
