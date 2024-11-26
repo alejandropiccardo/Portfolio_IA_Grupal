@@ -1,5 +1,5 @@
 ---
-title: "ML proyect Golf"
+title: "ML project Golf"
 description: "Nayve-bayes ML model in a cardic arrest dataset"
 date: "2024-11-11"
 banner:

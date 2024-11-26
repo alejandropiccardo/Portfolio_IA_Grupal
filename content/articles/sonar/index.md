@@ -1,5 +1,5 @@
 ---
-title: "ML proyect Sonar"
+title: "ML project Sonar"
 description: "Nayve-Bayes ML model. in ship sonar"
 date: "2024-10-07"
 banner:
