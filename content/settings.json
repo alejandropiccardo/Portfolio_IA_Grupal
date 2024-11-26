@@ -9,7 +9,7 @@
     "avatar": "../content/images/gatsby.png",
     "bio": "This website use a template from Gatsby.",
     "social": {
-      "github": "https://github.com/alejandropiccardo",
+      "github": "https://github.com/",
       "linkedin": "https://www.linkedin.com/",
       "mail": "mailto:alejandropicca2002@gmail.com"
     }
@@ -18,17 +18,12 @@
     "logo": { "text": "Portfolio" },
     "navigation": {
       "header": [
-        { "label": "Modelos", "url": "/modelos" },
         { "label": "About Us", "url": "/#about" },
+        { "label": "Modelos", "url": "/modelos" },
         { "label": "Proyectos", "url": "/blog" }
         
        
       ],
-      "ctaButton": {
-        "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
-      },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
         { "label": "Imprint", "url": "/imprint" }
