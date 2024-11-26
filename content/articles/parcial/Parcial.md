@@ -1,11 +1,11 @@
 ---
 title: "Chronic Kidney Disease"
 description: "logistic regresion, random forest and decision tree MLs models. in Chronic Kidney Disease dataset"
-date: "2024-26-11"
+date: "2024-11-26"
 banner:
-  src: "../../images/What-Is-Cardiac-Arrest.jpg"
+  src: "kidney.jpg"
   alt: "First Markdown Post"
-  caption: 'Photo by <u><a href="https://batonrougeclinic.com/what-is-cardiac-arrest/">https://batonrougeclinic.com/what-is-cardiac-arrest/</a></u>'
+  caption: 'Photo by <u><a href="https://i.pinimg.com/736x/81/dc/90/81dc902fa26631e6b864452c37db46e3.jpg">https://es.vecteezy.com/arte-vectorial/24313751-rinones-organo-personaje-vector-mano-dibujado-dibujos-animados-kawaii-personaje-ilustracion-icono-aislado-en-blanco-antecedentes-rinones-personaje-concepto?utm_source=pinterest&utm_medium=social</a></u>'
 categories:
   - "Machine Learning"
   - "Regresion Logistica"
