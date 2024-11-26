@@ -118,7 +118,7 @@ h1 {
 <h5>Red Neuronal</h5>
 <p>Las redes neuronales se inspiran en el cerebro humano y se utilizan para modelar relaciones complejas en grandes conjuntos de datos.</p>
 <h6>¿Cuándo usarla?</h6>
-p>Es adecuada para modelar relaciones no lineales o complejas, como el reconocimiento de imágenes o el procesamiento de lenguaje natural.</p>
+<p>Es adecuada para modelar relaciones no lineales o complejas, como el reconocimiento de imágenes o el procesamiento de lenguaje natural.</p>
 <h6>¿Qué necesita?</h6>
 <p>Requieren grandes volúmenes de datos y es importante normalizar los datos antes de usarlas. Además, el ajuste de hiperparámetros es clave para un buen desempeño.</p>
 </div>
