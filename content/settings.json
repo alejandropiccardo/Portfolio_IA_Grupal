@@ -5,7 +5,7 @@
     "title": "Gatsby Starter for Portfolio Minimal",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Alejandro Piccardo",
+    "author": "Alejandro Piccardo, Emiliano Labarthe, Lucas Martino y Juan Cabrera",
     "avatar": "../content/images/gatsby.png",
     "bio": "This website use a template from Gatsby.",
     "social": {
@@ -18,7 +18,8 @@
     "logo": { "text": "Portfolio" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
+        { "label": "Modelos", "url": "/modelos" },
+        { "label": "About Us", "url": "/#about" },
         { "label": "Proyectos", "url": "/blog" }
         
        

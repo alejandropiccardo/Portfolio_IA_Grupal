@@ -3,7 +3,7 @@ imageSrc: "../../images/fotoCVpersonal.jpg"
 imageAlt: "imagen personal"
 ---
 
-Mi nombre es Alejandro Piccardo , estudiante de ingeniería en Informática tercer año, actualmente cursando Introducción a métodos de aprendizaje automático.
-La idea principal de este portafolio es poder mostrar los trabajos hechos, tanto en grupo, como personalmente en mis primeros pasos dentro del mundo de Machine Learning.
-Utilizando RapidMiner y Python.
+Somos estudiantes de Ingeniería en Informática: Alejandro Piccardo, Emiliano Labarthe, Lucas Martino y Juan Cabrera. Actualmente estamos cursando la materia Introducción a los métodos de aprendizaje automático.
+
+El objetivo principal de este portafolio es mostrar los trabajos realizados en nuestros primeros pasos dentro del mundo del Machine Learning, utilizando herramientas como RapidMiner y Python.
 
