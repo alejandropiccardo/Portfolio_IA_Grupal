@@ -12,6 +12,8 @@ keywords:
   - "ML"
   - "Machine Learning"
 ---
+<style> .style-module--Article--a4577 img { object-fit: contain !important; } </style>
+
 # Loan Approval Classification
 -----
 
