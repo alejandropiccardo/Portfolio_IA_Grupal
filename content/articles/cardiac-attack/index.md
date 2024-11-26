@@ -48,6 +48,17 @@ valor entre 0 y 100 indicativo del nivel natural de estrés de cada persona y de
 
 Este atributo existe solamente en el dataset de entrenamiento. Es la variable objetivo o de predicción (“label” en RM). En el dataset de entrenamiento, este atributo contiene “SI” para aquellos individuos que han sufrido un segundo ataque al corazón, y “no” en caso contrario.
 
+
+##### Distribuciones:
+![Texto alternativo](distr1.png "Distribuciones")
+![Texto alternativo](distr2.png "Distribuciones")
+
+##### Analisis de datos:
+Adentrandonos en el Dataset, podemos ver cierta relación lineal entre los atributos y la clase a predecir:
+![Texto alternativo](peso-2do.png "Distribuciones")
+![Texto alternativo](manejostres-2doA.png "Distribuciones")
+![Texto alternativo](edad-2doA.png "Distribuciones")
+
 #### Modelo:
 
 Dado el problema, queremos predecir una variable binomial, Si = en caso de que vaya a sufrir un segundo paro cardiaco; NO = en caso contrario. Decidimos optar por un modelo de Regresión Logística.
