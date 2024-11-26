@@ -18,6 +18,7 @@
     "logo": { "text": "Portfolio" },
     "navigation": {
       "header": [
+        { "label": "Modelos", "url": "/modelos" },
         { "label": "About", "url": "/#about" },
         { "label": "Proyectos", "url": "/blog" }
         
